@@ -7,6 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class LogbacktestApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(LogbacktestApplication.class, args);
+        SpringApplication.run(LogbacktestApplication.class, args);
 	}
 }
