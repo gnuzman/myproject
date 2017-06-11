@@ -1,12 +1,12 @@
-package com.szhouse.logback;
+package com.swagger.zzh;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class LogbacktestApplication {
+public class SwaggerTestApplication {
 
 	public static void main(String[] args) {
-        SpringApplication.run(LogbacktestApplication.class, args);
+		SpringApplication.run(SwaggerTestApplication.class, args);
 	}
 }

@@ -14,9 +14,7 @@ target/
 *.iws
 *.iml
 *.ipr
-*.mvn
-mvnw.cmd
-mvnw
+.mvn
 
 ### NetBeans ###
 nbproject/private/
